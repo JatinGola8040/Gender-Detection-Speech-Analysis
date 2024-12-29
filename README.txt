@@ -1,3 +1,8 @@
+Pre-Requisite
+======================
+
+Download Dataset from https://www.kaggle.com/datasets/mozillaorg/common-voice in order to train & test the model.
+
 1. General information
 ======================
 
@@ -74,6 +79,4 @@ We also thank our community on Discourse (https://discourse.mozilla-community.or
 And special thanks to Mycroft, SNIPS.ai, Mythic, Tatoeba.org, Bangor University, and SAP for joining us on this journey. We look forward to working more with each of you.
 
 ---
-Michael Henretty, Tilman Kamp, Kelly Davis & The Common Voice Team
-Mozilla
-Nov. 29, 2017
+
